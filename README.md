@@ -1,0 +1,1 @@
+# shine-gitops-manifests
